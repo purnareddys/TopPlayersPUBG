@@ -1,4 +1,4 @@
-Applicatoin Hosted on :- https://loving-snyder-d656a2.netlify.app/
+Application Hosted on :- https://loving-snyder-d656a2.netlify.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
